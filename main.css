@@ -7,7 +7,7 @@
 }
 
 body{
-   max-width: 400px;
+   max-width: 500px;
    height: 1000px;
 }
 
@@ -36,7 +36,7 @@ body{
 
    color: #c7c7c7;
    text-align: left; /* расположение текста*/
-   font-size: 13px; /* размер шрифта (px или em - относительные единицы относительно первоначального текста)*/
+   font-size: 14px; /* размер шрифта (px или em - относительные единицы относительно первоначального текста)*/
    font-style: italic; /* стиль текста */
    font-family: "Rubik Gemstones", system-ui; /* шрифты */
 
@@ -47,7 +47,7 @@ body{
    position: relative; /* для указания приоритета обязательно указать позицию до */
    z-index: 1; /* приоритет слоя*/
    top: 3%;
-   float: right;
+   margin-left: 7%;
 
 }
 
